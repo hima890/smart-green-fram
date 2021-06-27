@@ -1,0 +1,12 @@
+	 	 	Smart Green-Farm report 	 	 	 	 	 	 
+ 	 	 	 	  D12354 	 	 	 	 	 	 
+ Date : Apr 07 2021 	 	 
+ Time:  13:27:00	 	 
+ initialInTemp:  24	 	 
+ initialOutTemp:  33	 	 
+ initialSunShineOut:  3.2	 	 
+ initialSunShineIn:  4.3	 	 
+ initialCo2In:  3.9	 	 
+ initialCo2Out:  2.3	 	 
+ 	 	 	 	 Next weater time:  Thu, 08 Apr 2021 13:27:00 GMT		 	
+ 	 	 	     Recommendation: Increase the humidity while reducing UV rays

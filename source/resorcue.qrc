@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>undraw_investment_data_yfvt.svg</file>
+        <file>undraw_data_reports_706v.svg</file>
+        <file>uv-index (5).png</file>
+        <file>undraw_data_report_bi6l.svg</file>
+        <file>undraw_Weather_re_qsmd (1).svg</file>
+        <file>iconfinder_weather-21_1530373.png</file>
+        <file>iconfinder_weather-02_1530391.png</file>
+        <file>iconfinder_weather_12_2682839.png</file>
+        <file>iconfinder_weather_44_2682807.png</file>
+        <file>iconfinder_weather-01_1530392.png</file>
+        <file>img1.svg</file>
+        <file>undraw_Weather_re_qsmd.svg</file>
+        <file>loding.jpg</file>
+    </qresource>
+    <qresource prefix="/font"/>
+    <qresource prefix="/">
+        <file>test.txt</file>
+    </qresource>
+</RCC>
